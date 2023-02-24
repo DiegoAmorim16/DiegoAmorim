@@ -12,7 +12,3 @@ dev student
         <img align="center" alt="Zac-Ms" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=97&color=currentColor">
         
       </div>
-      <hr>
-      </div>
-      </a>
-      </div>
